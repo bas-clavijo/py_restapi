@@ -1,4 +1,3 @@
-# Datos de la tabla a travez de una clase
 class Movie():
     def __init__(self, id, title=None, duration=None, released=None) -> None:
         self.id = id
